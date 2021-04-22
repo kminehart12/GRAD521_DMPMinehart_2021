@@ -1,5 +1,5 @@
 # GRAD521_DMPMinehart_2021
-
+This project is authored by Kira Minehart
 
 Contents of the project for this DMP:
 
@@ -15,4 +15,6 @@ The National Land Cover Database (NLCD) provides consistent land cover data prod
 The NLCD contains data over 4 time periods, 2001 , 2006, 2011, and 2016. This data is freely available in raster (.tif)  format for download on the NLCD website. Once downloaded, this data should be stored for analysis on a SSD and backed up in zipped files in the cloud and on an external hard drive. A spatial analysis software, like QGIS (GRASS plugin,) ENVI, or ArcGIS is needed to view, analyze, and  interpret this data.
 
 Each national dataset is in raster (.tif) format and ranges from 1 - 2 GB in size for the entire 50-state area. The subset of data that I am interested in (Oregon, Washington, and Idaho) will be ~200 MB in size for each year, so all 4 years will equate to approximately 1GB of data. 
+
+
 
